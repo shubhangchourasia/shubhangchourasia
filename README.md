@@ -5,15 +5,15 @@
 
 # About Me
 I'm a self-taught passionate FrontEnd developer. I am curious about new technologies. My goal is to work with an objective to deliver products which are both modern and innovative. <br>
-Additionally, I passionate for photography, I love to capture something amazing. Landscape and stargazing are two of my main interest in photography. By nature, I am a foodie and love to explore and eat different varieties of food items.
+Additionally, I am passionate for photography, I love to capture something amazing. Landscape and stargazing are two of my main interest in photography. By nature, I am a foodie and love to travel and explore.
 
 # My Projects and Skills
 ### Here are some of my projects - 
 
- - [Portfolio](https://shubhangchourasia.com/) - I built my portfolio with Vue.js 3 and Tailwind CSS. 
- - [Picxilens](https://picxilens.com/) - An app to connect photographers and customers, increase productivity of studios and a platform for freelancers to represent themselves. 
- - [Extra Projects](https://shubhangchourasia.netlify.app/) - I built some projects to improve my HTML, CSS and Javascript skills.
- - [Digital Biz Tech](https://digitalbiz.tech/) - As a web developer in Digital Biz Tech I developed its official website using Gatsby and Netlify CMS.
+ - <a href="https://shubhangchourasia.com" target="_blank" rel="noreferrer">Portfolio</a> - I built my portfolio with Vue.js 3 and Tailwind CSS. 
+ - <a href="https://picxilens.com" target="_blank" rel="noreferrer">Picxilens</a> - An app to connect photographers and customers, increase productivity of studios and a platform for freelancers to represent themselves. 
+ - <a href="https://shubhangchourasia.netlify.app" target="_blank" rel="noreferrer">Extra Projects</a> - I built some projects to improve my HTML, CSS and Javascript skills.
+ - <a href="https://digitalbiz.tech" target="_blank" rel="noreferrer">Digital Biz Tech</a> - As a web developer in Digital Biz Tech I developed its official website using Gatsby and Netlify CMS.
 
 ### Skills:  
 
