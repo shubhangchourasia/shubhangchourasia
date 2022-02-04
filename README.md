@@ -4,7 +4,7 @@
 ![Cover Image](https://github.com/shubhangchourasia/shubhangchourasia/blob/main/Images/Cover.png?raw=true)
 
 # About Me
-I'm a self-taught passionate FrontEnd developer. I am curious about new technologies. My goal is to work with an objective to deliver products which are both modern and innovative. <br>
+I'm a self-taught passionate Frontend developer. I am curious about new technologies. My goal is to work with an objective to deliver products which are both modern and innovative. <br>
 Additionally, I am passionate for photography, I love to capture something amazing. Landscape and stargazing are two of my main interest in photography. By nature, I am a foodie and love to travel and explore.
 
 # My Projects and Skills
