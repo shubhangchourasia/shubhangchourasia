@@ -14,6 +14,7 @@ Additionally, I am passionate for photography, I love to capture something amazi
  - <a href="https://picxilens.com" target="_blank" rel="noreferrer">Picxilens</a> - An app to connect photographers and customers, increase productivity of studios and a platform for freelancers to represent themselves. 
  - <a href="https://shubhangchourasia.netlify.app" target="_blank" rel="noreferrer">Extra Projects</a> - I built some projects to improve my HTML, CSS and Javascript skills.
  - <a href="https://digitalbiz.tech" target="_blank" rel="noreferrer">Digital Biz Tech</a> - As a web developer in Digital Biz Tech I developed its official website using Gatsby and Netlify CMS.
+ - <a href="https://americantamil.org" target="_blank" rel="noreferrer">American Institute of Tamil Language</a> - As a web developer in Digital Biz Tech I developed official website of American Institute of Tamil Language using Nuxt js and Firebase.
 
 ### Skills:  
 
