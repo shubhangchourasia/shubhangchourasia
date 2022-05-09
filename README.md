@@ -15,6 +15,7 @@ Additionally, I am passionate for photography, I love to capture something amazi
  - <a href="https://shubhangchourasia.netlify.app" target="_blank" rel="noreferrer">Extra Projects</a> - I built some projects to improve my HTML, CSS and JavaScript skills.
  - <a href="https://digitalbiz.tech" target="_blank" rel="noreferrer">Digital Biz Tech</a> - As a web developer in Digital Biz Tech I developed its official website using Gatsby JS and Netlify CMS.
  - <a href="https://americantamil.org" target="_blank" rel="noreferrer">American Institute of Tamil Language</a> - As a web developer in Digital Biz Tech I developed official website of American Institute of Tamil Language using Nuxt JS and Firebase.
+ - <a href="https://sree-medical-pharmacy.com/" target="_blank" rel="noreferrer">Sree Medical Pharmacy</a> - As a web developer in Digital Biz Tech I developed website for Sree Medical Pharmacy using HTML and Tailwind CSS.
 
 ### Skills:  
 
